@@ -1,0 +1,8 @@
+# Optional settings: merge deliberately into your config; do not replace it.
+# Select gpt-6-sol in the app or launch: codex -m gpt-6-sol
+model = "gpt-6-sol"
+model_reasoning_effort = "high"
+
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 7

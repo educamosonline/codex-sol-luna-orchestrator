@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sol/Luna Orchestrator"
+  short_description: "Route and verify efficient multi-agent work"
+  default_prompt: "Use $sol-luna-orchestrator to coordinate this project with bounded workers and verifiable receipts."
+policy:
+  allow_implicit_invocation: true
