@@ -21,7 +21,7 @@ python scripts/install.py doctor
 ```
 
 Use `python3` se esse for o nome do Python no seu sistema. O repositório é
-privado: autentique o Git com uma conta que tenha acesso, ou transfira o ZIP,
+público e pode ser clonado sem autenticação. Como alternativa, transfira o ZIP,
 extraia e execute os mesmos comandos a partir da pasta extraída.
 
 O primeiro comando mostra a prévia sem alterar arquivos. Se houver arquivos
